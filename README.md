@@ -1,5 +1,9 @@
 # Arma 3 Headless Client
 
+**This repository is no longer maintained.** See
+https://github.com/mschabhuettl/arma3-hc-docker for an up-to-date version of
+this.
+
 Docker image for Arma 3 headless clients.
 
 ```bash
